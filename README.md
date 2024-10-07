@@ -2,7 +2,7 @@
 
 > Project Paul was my first attempt at creating an offline voice recognizing assistant for music and alarms. The trick to paul is that it uses pocket sphinx and its own learned language model and limited dictionary to recognize audio files and fulfill requests.
 
-> The hardware used is pictured and will be listed here:
+*The hardware used is pictured and will be listed here*
 * Raspberry Pi 4
 * Rpi 4 cooler
 * 3.5mm Aux ground isolator
